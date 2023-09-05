@@ -17,7 +17,7 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 
 ## Contributing
 
-If you are interested in contributing to this repository, please see []()
+If you are interested in contributing to this repository, please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines. A list of current contributors is found [HERE](./contributors.md).
 
 ## Contact
 
