@@ -1,6 +1,8 @@
 # LLM Security and Privacy
 
-A collection of papers and tools covering LLM threats and vulnerabilities, both from a security and privacy standpoint.
+A collection of papers and tools covering LLM threats and vulnerabilities, both from a security and privacy standpoint. Summaries, key takeaway points, and additional details for each paper are found in the [paper-summaries](./paper-summaries) folder. 
+
+[main.bib](./main.bib) file contains the latest citations of the papers listed here.
 
 ## Papers
 
