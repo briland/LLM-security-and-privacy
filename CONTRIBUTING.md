@@ -8,9 +8,9 @@
 
 ## Contributors List
 
-IF you would like for your name to be added to the [contributors](./contributors.md) table, please provide the following information:
+If your is **accepted**, your name will be added to the [contributors](./contributors.md) table. For this, please provide the following information with your *first* PR:
 
-* Full name (Required)
+* Full name (Optional), Default: ![N/A](https://img.shields.io/badge/N%2FA-black)
 * Link to your website (Optional)
 * Institution (Optional), Default: ![N/A](https://img.shields.io/badge/N%2FA-black)
 * GitHub handle (Required) 
