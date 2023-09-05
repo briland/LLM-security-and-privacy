@@ -4,6 +4,11 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 
 [main.bib](./main.bib) file contains the latest citations of the papers listed here.
 
+<figure>
+    <img src="./images/taxonomy.png" alt="A taxonomy of security and privacy threats against deep learning models and consecutively LLMs" style="width:100%">
+    <figcaption align = "center"><b>A taxonomy of current security and privacy threats against deep learning models and consecutively LLMs</b></figcaption>
+</figure>
+
 ## Papers
 
 1. Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities [PDF](https://arxiv.org/pdf/2308.12833.pdf)
