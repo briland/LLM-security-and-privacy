@@ -1,6 +1,6 @@
 # LLM Security and Privacy: Contributors
 
-The following is a list of contributors to the this repository:
+The following is a list of contributors to this repository:
 
 | No. | Contributor    | Institution | GitHub |
 | --- | -------------- | ----------- | ------ |
