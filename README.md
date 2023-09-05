@@ -1,6 +1,6 @@
 # LLM Security and Privacy
 
-A collection of papers and tools covering LLM threats and vulnerabilities, both from a security and privacy standpoint. Summaries, key takeaway points, and additional details for each paper are found in the [paper-summaries](./paper-summaries) folder. 
+A curated list of papers and tools covering [LLM threats](https://github.com/topics/llm-threats) and [vulnerabilities](https://github.com/topics/llm-vulnerabilities), both from a [security](https://github.com/topics/llm-security) and [privacy](https://github.com/topics/llm-privacy) standpoint. Summaries, key takeaway points, and additional details for each paper are found in the [paper-summaries](./paper-summaries) folder. 
 
 [main.bib](./main.bib) file contains the latest citations of the papers listed here.
 
@@ -15,4 +15,10 @@ A collection of papers and tools covering LLM threats and vulnerabilities, both 
 
 ## Tools
 
+## Contributing
+
+If you are interested in contributing to this repository, please see []()
+
 ## Contact
+
+For any questions regarding this repository and/or potential (research) collaborations please contact [Briland Hitaj](mailto:briland.hitaj@sri.com).
