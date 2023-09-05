@@ -6,8 +6,13 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 
 <figure>
     <img src="./images/taxonomy.png" alt="A taxonomy of security and privacy threats against deep learning models and consecutively LLMs" style="width:100%">
-    <figcaption align="center" style="text-align: center;"><b>Overview Figure:</b> A taxonomy of current security and privacy threats against deep learning models and consecutively LLMs</figcaption>
+    <figcaption align="center" style="text-align: center;"><b>Overview Figure:</b> A taxonomy of current security and privacy threats against deep learning models and consecutively LLMs.</figcaption>
 </figure>
+
+<p align="center">
+  <img src="./images/taxonomy.png" alt="A taxonomy of security and privacy threats against deep learning models and consecutively LLMs" style="width:100%">
+  <b>Overview Figure:</b> A taxonomy of current security and privacy threats against deep learning models and consecutively LLMs.
+</p>
 
 ## Papers
 
