@@ -4,8 +4,8 @@
 
 <!-- Link to PDF version of the paper, Venue, and GitHub Repository -->
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](./)
-[![Venue](https://img.shields.io/badge/VENUE-YEAR-yellow)](./)
-[![Code](https://img.shields.io/badge/Code-Repository-green)](./)
+[![Venue](https://img.shields.io/badge/VENUE-YEAR-blue)](./)
+[![Code](https://img.shields.io/badge/Code-black?logo=github&logoColor=white)](./)
 
 </div>
 
