@@ -19,8 +19,8 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 | 4.  | [Beyond the Safeguards: Exploring the Security Risks of ChatGPT](https://arxiv.org/pdf/2305.08005.pdf) | pre-print | 2023 | General | N/A | TBD |
 | 5.  | [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf) | pre-print | 2023 | Prompt Injection | N/A | TBD |
 | 6.  | [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/pdf/2308.14840.pdf) | pre-print | 2023 | General | N/A | TBD |
-| 7.  | [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://arxiv.org/pdf/2306.01545.pdf) | [ESORICS](https://esorics2023.org/program/accepted_papers/) | 2023 | Applications | [![Code](https://img.shields.io/badge/PASSGPT-black?logo=github&logoColor=white)](https://github.com/javirandor/passgpt) | TBD |
-| 8.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/LM_MEMORIZATION-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
+| 7.  | [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://arxiv.org/pdf/2306.01545.pdf) | [ESORICS](https://esorics2023.org/program/accepted_papers/) | 2023 | Applications | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/javirandor/passgpt) | TBD |
+| 8.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
 
 ## Tools
 
