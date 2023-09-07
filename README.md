@@ -24,10 +24,13 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 | 9.  | [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf) | pre-print | 2023 | Prompt Injection | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/greshake/llm-security) | TBD |
 | 10.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
 
-## Frameworks & Tools
+## Frameworks
 
 * [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 * [MITRE ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)](https://atlas.mitre.org/)
+
+## Tools
+
 * [Arsenal - CALDERA Plugin](https://github.com/mitre-atlas/arsenal)
 
 ## Contributing
