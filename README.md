@@ -9,6 +9,15 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
   <b>Overview Figure:</b> A taxonomy of current security and privacy threats against deep learning models and consecutively Large Language Models (LLMs).
 </p>
 
+## Table of Contents
+
+* [Papers](#papers)
+* [Frameworks & Taxonomies](#frameworks--taxonomies)
+* [Tools](#tools)
+* [News Articles, Blog Posts, and Talks](#news-articles-blog-posts-and-talks)
+* [Contributing](#contributing)
+* [Contact](#contact)
+
 ## Papers
 
 | No. | Paper Title | Venue | Year | Category | Code | Summary |
