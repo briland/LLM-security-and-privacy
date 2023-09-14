@@ -38,8 +38,10 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 
 ## News Articles, Blog Posts, and Talks
 
+* [Is Generative AI Dangerous?](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787?i=1000625300252)
 * [Adversarial examples in the age of ChatGPT](https://spylab.ai/blog/chatbot-adversarial-examples/)
 * [LLMs in Security: Demos vs Deployment?](https://moyix.net/~moyix/NAS_Cyber_Resilience_Aug2023_Dolan-Gavitt.pdf)
+* [Free AI Programs Prone to Security Risks, Researchers Say](https://www.bloomberg.com/news/articles/2023-03-29/free-ai-programs-prone-to-security-risks-researchers-say)
 
 ## Contributing
 
