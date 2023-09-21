@@ -32,8 +32,10 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 | 8.  | [Harnessing GPT-4 for generation of cybersecurity GRC policies: A focus on ransomware attack mitigation](https://www.sciencedirect.com/science/article/pii/S0167404823003346) | [Computers \& Security](https://www.sciencedirect.com/journal/computers-and-security) | 2023 | Applications | N/A | TBD | 
 | 9.  | [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf) | pre-print | 2023 | Prompt Injection | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/greshake/llm-security) | TBD |
 | 10.  | [Examining Zero-Shot Vulnerability Repair with Large Language Models](https://arxiv.org/pdf/2112.02125.pdf) | [IEEE S&P](https://www.ieee-security.org/TC/SP2023/program-papers.html) | 2023 | Applications | N/A | TBD | 
-| 11.  | [Pop Quiz! Can a Large Language Model Help With Reverse Engineering?](https://arxiv.org/pdf/2202.01142.pdf) | pre-print | 2022 | Applications | N/A | TBD |
-| 12.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
+| 11.  | [LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins](https://arxiv.org/pdf/2309.10254.pdf) | pre-print | 2023 | General | N/A | TBD |
+| 12.  | [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/pdf/2309.11495.pdf) | pre-print | 2023 | Hallucinations | N/A | TBD |
+| 13.  | [Pop Quiz! Can a Large Language Model Help With Reverse Engineering?](https://arxiv.org/pdf/2202.01142.pdf) | pre-print | 2022 | Applications | N/A | TBD |
+| 14.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
 
 ## Frameworks & Taxonomies
 
