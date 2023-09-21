@@ -44,6 +44,7 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 ## Tools
 
 * [Arsenal - CALDERA Plugin](https://github.com/mitre-atlas/arsenal)
+* [Vigil - Prompt injection detection](https://github.com/deadbits/vigil-llm)
 
 ## News Articles, Blog Posts, and Talks
 
