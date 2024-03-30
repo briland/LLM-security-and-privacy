@@ -22,20 +22,22 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 
 | No. | Paper Title | Venue | Year | Category | Code | Summary |
 | --- | ----------- | ----- | ---- | -------- | ---- | ------- |
-| 1.  | [An Overview of Catastrophic AI Risks](https://arxiv.org/pdf/2306.12001.pdf) | pre-print | 2023 | General | N/A | TBD |
-| 2.  | [Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities](https://arxiv.org/pdf/2308.12833.pdf) | pre-print | 2023 | General | N/A | TBD |
-| 3.  | [LLM Censorship: A Machine Learning Challenge or a Computer Security Problem?](https://arxiv.org/pdf/2307.10719.pdf) | pre-print | 2023 | General | N/A | TBD |
-| 4.  | [Beyond the Safeguards: Exploring the Security Risks of ChatGPT](https://arxiv.org/pdf/2305.08005.pdf) | pre-print | 2023 | General | N/A | TBD |
-| 5.  | [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf) | pre-print | 2023 | Prompt Injection | N/A | TBD |
-| 6.  | [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/pdf/2308.14840.pdf) | pre-print | 2023 | General | N/A | TBD |
-| 7.  | [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://arxiv.org/pdf/2306.01545.pdf) | [ESORICS](https://esorics2023.org/program/accepted_papers/) | 2023 | Applications | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/javirandor/passgpt) | TBD |
-| 8.  | [Harnessing GPT-4 for generation of cybersecurity GRC policies: A focus on ransomware attack mitigation](https://www.sciencedirect.com/science/article/pii/S0167404823003346) | [Computers \& Security](https://www.sciencedirect.com/journal/computers-and-security) | 2023 | Applications | N/A | TBD | 
-| 9.  | [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf) | pre-print | 2023 | Prompt Injection | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/greshake/llm-security) | TBD |
-| 10.  | [Examining Zero-Shot Vulnerability Repair with Large Language Models](https://arxiv.org/pdf/2112.02125.pdf) | [IEEE S&P](https://www.ieee-security.org/TC/SP2023/program-papers.html) | 2023 | Applications | N/A | TBD | 
-| 11.  | [LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins](https://arxiv.org/pdf/2309.10254.pdf) | pre-print | 2023 | General | N/A | TBD |
-| 12.  | [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/pdf/2309.11495.pdf) | pre-print | 2023 | Hallucinations | N/A | TBD |
-| 13.  | [Pop Quiz! Can a Large Language Model Help With Reverse Engineering?](https://arxiv.org/pdf/2202.01142.pdf) | pre-print | 2022 | Applications | N/A | TBD |
-| 14.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
+| 1.  | [InjectAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents](https://arxiv.org/pdf/2403.02691.pdf) | pre-print | 2024 | Prompt Injection | N/A | TBD |
+| 2.  | [LLM Agents can Autonomously Hack Websites](https://arxiv.org/pdf/2402.06664.pdf) | pre-print | 2024 | Applications | N/A | TBD |
+| 3.  | [An Overview of Catastrophic AI Risks](https://arxiv.org/pdf/2306.12001.pdf) | pre-print | 2023 | General | N/A | TBD |
+| 4.  | [Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities](https://arxiv.org/pdf/2308.12833.pdf) | pre-print | 2023 | General | N/A | TBD |
+| 5.  | [LLM Censorship: A Machine Learning Challenge or a Computer Security Problem?](https://arxiv.org/pdf/2307.10719.pdf) | pre-print | 2023 | General | N/A | TBD |
+| 6.  | [Beyond the Safeguards: Exploring the Security Risks of ChatGPT](https://arxiv.org/pdf/2305.08005.pdf) | pre-print | 2023 | General | N/A | TBD |
+| 7.  | [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf) | pre-print | 2023 | Prompt Injection | N/A | TBD |
+| 8.  | [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/pdf/2308.14840.pdf) | pre-print | 2023 | General | N/A | TBD |
+| 9.  | [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://arxiv.org/pdf/2306.01545.pdf) | [ESORICS](https://esorics2023.org/program/accepted_papers/) | 2023 | Applications | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/javirandor/passgpt) | TBD |
+| 10.  | [Harnessing GPT-4 for generation of cybersecurity GRC policies: A focus on ransomware attack mitigation](https://www.sciencedirect.com/science/article/pii/S0167404823003346) | [Computers \& Security](https://www.sciencedirect.com/journal/computers-and-security) | 2023 | Applications | N/A | TBD | 
+| 11.  | [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf) | pre-print | 2023 | Prompt Injection | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/greshake/llm-security) | TBD |
+| 12.  | [Examining Zero-Shot Vulnerability Repair with Large Language Models](https://arxiv.org/pdf/2112.02125.pdf) | [IEEE S&P](https://www.ieee-security.org/TC/SP2023/program-papers.html) | 2023 | Applications | N/A | TBD | 
+| 13.  | [LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins](https://arxiv.org/pdf/2309.10254.pdf) | pre-print | 2023 | General | N/A | TBD |
+| 14.  | [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/pdf/2309.11495.pdf) | pre-print | 2023 | Hallucinations | N/A | TBD |
+| 15.  | [Pop Quiz! Can a Large Language Model Help With Reverse Engineering?](https://arxiv.org/pdf/2202.01142.pdf) | pre-print | 2022 | Applications | N/A | TBD |
+| 16.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
 
 ## Frameworks & Taxonomies
 
