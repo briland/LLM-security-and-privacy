@@ -11,12 +11,14 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 
 ## Table of Contents
 
-* [Papers](#papers)
-* [Frameworks & Taxonomies](#frameworks--taxonomies)
-* [Tools](#tools)
-* [News Articles, Blog Posts, and Talks](#news-articles-blog-posts-and-talks)
-* [Contributing](#contributing)
-* [Contact](#contact)
+- [LLM Security and Privacy](#llm-security-and-privacy)
+  - [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+  - [Frameworks \& Taxonomies](#frameworks--taxonomies)
+  - [Tools](#tools)
+  - [News Articles, Blog Posts, and Talks](#news-articles-blog-posts-and-talks)
+  - [Contributing](#contributing)
+  - [Contact](#contact)
 
 ## Papers
 
@@ -38,7 +40,8 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 | 14.  | [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/pdf/2309.11495.pdf) | pre-print | 2023 | Hallucinations | N/A | TBD |
 | 15.  | [Pop Quiz! Can a Large Language Model Help With Reverse Engineering?](https://arxiv.org/pdf/2202.01142.pdf) | pre-print | 2022 | Applications | N/A | TBD |
 | 16.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
-
+| 17. | [Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications](https://arxiv.org/abs/2403.02817) | pre-print | 2024 | Prompt-Injection | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/StavC/ComPromptMized) | TBD|
+| 18. | [CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization](https://aclanthology.org/2021.emnlp-main.532/) | [EMNLP](https://aclanthology.org/volumes/2021.emnlp-main/) | 2021 | Hallucinations | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ShuyangCao/cliff_summ) | TBD| 
 ## Frameworks & Taxonomies
 
 * [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
