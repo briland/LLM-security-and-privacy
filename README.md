@@ -52,6 +52,7 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 
 * [Arsenal - CALDERA Plugin](https://github.com/mitre-atlas/arsenal)
 * [Vigil - Prompt injection detection](https://github.com/deadbits/vigil-llm)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon): Open source (GPLv3) autonomous penetration testing platform whose v1.4.0 llm specialist tests LLM and AI inference endpoints against the OWASP LLM Top 10 (prompt injection, system prompt leakage, insecure output handling, SSRF via the model, unbounded consumption), integrating NVIDIA garak, with reproducible proof of exploitation.
 
 ## News Articles, Blog Posts, and Talks
 
