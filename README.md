@@ -42,6 +42,9 @@ A curated list of papers and tools covering [LLM threats](https://github.com/top
 | 16.  | [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf) | [Usenix Security](https://www.usenix.org/conference/usenixsecurity21/technical-sessions) | 2021 | Data Extraction | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ftramer/LM_Memorization) | TBD |
 | 17. | [Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications](https://arxiv.org/abs/2403.02817) | pre-print | 2024 | Prompt-Injection | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/StavC/ComPromptMized) | TBD|
 | 18. | [CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization](https://aclanthology.org/2021.emnlp-main.532/) | [EMNLP](https://aclanthology.org/volumes/2021.emnlp-main/) | 2021 | Hallucinations | [![Code](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ShuyangCao/cliff_summ) | TBD| 
+| 19. | [DAI: A Domain-Specific LLM with Model-Excluded Authority, Capability-Disjoint Verification, and Recomputable Receipts](https://doi.org/10.5281/zenodo.23089652) | pre-print (Zenodo) | 2026 | General | N/A | TBD |
+| 20. | [Autonomous Defensive AI: An Envelope-and-Evidence Framework for Governed LLMs Acting on Production Infrastructure](https://doi.org/10.5281/zenodo.23089594) | pre-print (Zenodo) | 2026 | General | N/A | TBD |
+
 ## Frameworks & Taxonomies
 
 * [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
